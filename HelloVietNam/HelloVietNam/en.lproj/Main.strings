@@ -1,0 +1,261 @@
+
+/* Class = "UILabel"; text = "1.4 mi"; ObjectID = "0hP-GE-d3J"; */
+"0hP-GE-d3J.text" = "1.4 mi";
+
+/* Class = "UILabel"; text = "Vietnamese\nFood"; ObjectID = "0qe-IA-jEz"; */
+"0qe-IA-jEz.text" = "Vietnamese\nFood";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "0w3-DX-J6U"; */
+"0w3-DX-J6U.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh"; ObjectID = "1ge-E6-weH"; */
+"1ge-E6-weH.text" = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "2XJ-pd-iBE"; */
+"2XJ-pd-iBE.placeholder" = "New password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2j9-pV-AfM"; */
+"2j9-pV-AfM.text" = "Label";
+
+/* Class = "UILabel"; text = "eckdanger@gmail.com"; ObjectID = "3UD-YE-ZJO"; */
+"3UD-YE-ZJO.text" = "eckdanger@gmail.com";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "3s5-JH-jTM"; */
+"3s5-JH-jTM.text" = "7.9";
+
+/* Class = "UITextField"; placeholder = "New email"; ObjectID = "49a-v2-141"; */
+"49a-v2-141.placeholder" = "New email";
+
+/* Class = "UILabel"; text = "70.000vnd - 200.000vnd"; ObjectID = "67C-fz-3NG"; */
+"67C-fz-3NG.text" = "70.000vnd - 200.000vnd";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6f1-d7-k9B"; */
+"6f1-d7-k9B.text" = "Label";
+
+/* Class = "UILabel"; text = "Eckdanger"; ObjectID = "6xh-fm-8Ni"; */
+"6xh-fm-8Ni.text" = "Eckdanger";
+
+/* Class = "UILabel"; text = "Sentosa Food"; ObjectID = "7L8-36-4Bq"; */
+"7L8-36-4Bq.text" = "Sentosa Food";
+
+/* Class = "UILabel"; text = "Eckdanger"; ObjectID = "88I-1n-kID"; */
+"88I-1n-kID.text" = "Eckdanger";
+
+/* Class = "UILabel"; text = "Grand opening Chicago Pizza"; ObjectID = "8ev-wo-utr"; */
+"8ev-wo-utr.text" = "Grand opening Chicago Pizza";
+
+/* Class = "UILabel"; text = "Next Restaurant"; ObjectID = "95g-GM-XMn"; */
+"95g-GM-XMn.text" = "Next Restaurant";
+
+/* Class = "UILabel"; text = "Emma Stone"; ObjectID = "BdB-eV-D9P"; */
+"BdB-eV-D9P.text" = "Emma Stone";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "Bmj-Wo-stS"; */
+"Bmj-Wo-stS.text" = "7.9";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "Bot-RQ-sf4"; */
+"Bot-RQ-sf4.text" = "Home";
+
+/* Class = "UILabel"; text = "5+"; ObjectID = "Bxg-Aa-X4s"; */
+"Bxg-Aa-X4s.text" = "5+";
+
+/* Class = "UILabel"; text = "Sentosa Food"; ObjectID = "C5J-cS-w0V"; */
+"C5J-cS-w0V.text" = "Sentosa Food";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Dm0-su-2NM"; */
+"Dm0-su-2NM.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Sentosa Food"; ObjectID = "EOe-sM-Dfk"; */
+"EOe-sM-Dfk.text" = "Sentosa Food";
+
+/* Class = "UILabel"; text = "15 minutes"; ObjectID = "ESS-zK-goN"; */
+"ESS-zK-goN.text" = "15 minutes";
+
+/* Class = "UIButton"; normalTitle = "Get direction"; ObjectID = "ElE-p3-wBe"; */
+"ElE-p3-wBe.normalTitle" = "Get direction";
+
+/* Class = "UIButton"; normalTitle = "Get direction"; ObjectID = "F3M-8v-hsb"; */
+"F3M-8v-hsb.normalTitle" = "Get direction";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "F4q-TO-VvR"; */
+"F4q-TO-VvR.text" = "7.9";
+
+/* Class = "UILabel"; text = "Happy hour from 10:00 to 14:00"; ObjectID = "FZm-jA-opk"; */
+"FZm-jA-opk.text" = "Happy hour from 10:00 to 14:00";
+
+/* Class = "UILabel"; text = "Coupon voucher 10$"; ObjectID = "G1Q-sc-TfL"; */
+"G1Q-sc-TfL.text" = "Coupon voucher 10$";
+
+/* Class = "UILabel"; text = "eckdanger@gmail.com"; ObjectID = "G7T-ot-Y3d"; */
+"G7T-ot-Y3d.text" = "eckdanger@gmail.com";
+
+/* Class = "UILabel"; text = "eckdanger@gmail.com"; ObjectID = "GIC-ID-Ptz"; */
+"GIC-ID-Ptz.text" = "eckdanger@gmail.com";
+
+/* Class = "UILabel"; text = "Starbucks Coffee"; ObjectID = "GTQ-cu-ns2"; */
+"GTQ-cu-ns2.text" = "Starbucks Coffee";
+
+/* Class = "UILabel"; text = "1.4 mi"; ObjectID = "GUK-my-ieE"; */
+"GUK-my-ieE.text" = "1.4 mi";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Go7-9U-HOb"; */
+"Go7-9U-HOb.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Old password"; ObjectID = "HZE-ib-OrK"; */
+"HZE-ib-OrK.placeholder" = "Old password";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "I6d-l0-fem"; */
+"I6d-l0-fem.text" = "7.9";
+
+/* Class = "UILabel"; text = "Please type your email in the box below,\nwe will send a new password to your email."; ObjectID = "Inn-MP-0mb"; */
+"Inn-MP-0mb.text" = "Please type your email in the box below,\nwe will send a new password to your email.";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "J5U-4V-EIx"; */
+"J5U-4V-EIx.placeholder" = "Repeat Password";
+
+/* Class = "UITextField"; placeholder = "Confirm new password"; ObjectID = "JXp-oy-oKb"; */
+"JXp-oy-oKb.placeholder" = "Confirm new password";
+
+/* Class = "UILabel"; text = "Aug 20, 2014"; ObjectID = "Jjv-Gw-SRX"; */
+"Jjv-Gw-SRX.text" = "Aug 20, 2014";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jru-Jc-3eZ"; */
+"Jru-Jc-3eZ.text" = "Label";
+
+/* Class = "UILabel"; text = "08:00 AM - 11:00 PM"; ObjectID = "K13-1A-lI5"; */
+"K13-1A-lI5.text" = "08:00 AM - 11:00 PM";
+
+/* Class = "UILabel"; text = "01689998881/ 099505936"; ObjectID = "K1A-Pw-12K"; */
+"K1A-Pw-12K.text" = "01689998881/ 099505936";
+
+/* Class = "UILabel"; text = "OPEN NOW"; ObjectID = "KE6-6v-1m7"; */
+"KE6-6v-1m7.text" = "OPEN NOW";
+
+/* Class = "UIButton"; normalTitle = "Fotgot password?"; ObjectID = "KOh-8J-bhK"; */
+"KOh-8J-bhK.normalTitle" = "Fotgot password?";
+
+/* Class = "UILabel"; text = "Old email:"; ObjectID = "Kfy-uv-r6c"; */
+"Kfy-uv-r6c.text" = "Old email:";
+
+/* Class = "UIButton"; normalTitle = "Change profile photo"; ObjectID = "NY8-pm-3iL"; */
+"NY8-pm-3iL.normalTitle" = "Change profile photo";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "OIx-zI-7gX"; */
+"OIx-zI-7gX.normalTitle" = "SAVE";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "OxU-ui-TVC"; */
+"OxU-ui-TVC.normalTitle" = "SIGN IN";
+
+/* Class = "UILabel"; text = "Send to email"; ObjectID = "RHz-xd-hG0"; */
+"RHz-xd-hG0.text" = "Send to email";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "RWg-kP-iNV"; */
+"RWg-kP-iNV.text" = "Don't have an account?";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "URo-ga-G5p"; */
+"URo-ga-G5p.text" = "or";
+
+/* Class = "UILabel"; text = "HaNoi, Vietnam"; ObjectID = "Ul1-Ml-nHg"; */
+"Ul1-Ml-nHg.text" = "HaNoi, Vietnam";
+
+/* Class = "UILabel"; text = "Register email:"; ObjectID = "WTz-Ng-BvZ"; */
+"WTz-Ng-BvZ.text" = "Register email:";
+
+/* Class = "UILabel"; text = "Eckdanger20102010@gmail.com"; ObjectID = "Xg1-mt-8I2"; */
+"Xg1-mt-8I2.text" = "Eckdanger20102010@gmail.com";
+
+/* Class = "UIButton"; normalTitle = "JOIN US"; ObjectID = "Yzx-Be-9Zg"; */
+"Yzx-Be-9Zg.normalTitle" = "JOIN US";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "cDy-Cf-yWf"; */
+"cDy-Cf-yWf.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Sentosa Food"; ObjectID = "d4U-or-XYr"; */
+"d4U-or-XYr.text" = "Sentosa Food";
+
+/* Class = "UILabel"; text = "1.4 mi"; ObjectID = "dng-9P-lXV"; */
+"dng-9P-lXV.text" = "1.4 mi";
+
+/* Class = "UILabel"; text = "Date of birth"; ObjectID = "dtf-J9-TGN"; */
+"dtf-J9-TGN.text" = "Date of birth";
+
+/* Class = "UILabel"; text = "Wrong password. Please try again."; ObjectID = "eJx-Xp-7fw"; */
+"eJx-Xp-7fw.text" = "Wrong password. Please try again.";
+
+/* Class = "UILabel"; text = "1.4 mi"; ObjectID = "ecL-N7-FEA"; */
+"ecL-N7-FEA.text" = "1.4 mi";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "esE-jW-mYR"; */
+"esE-jW-mYR.normalTitle" = "SEND";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gAe-1M-5u1"; */
+"gAe-1M-5u1.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "gOo-cY-2Pl"; */
+"gOo-cY-2Pl.text" = "7.9";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "gpn-xg-o1Y"; */
+"gpn-xg-o1Y.text" = "7.9";
+
+/* Class = "UILabel"; text = "141 Nguyễn Huệ, Corner of Le Thanh Ton and Pasteur, Ho Chi Minh, Ho Chi Minh City"; ObjectID = "h7C-fH-1l7"; */
+"h7C-fH-1l7.text" = "141 Nguyễn Huệ, Corner of Le Thanh Ton and Pasteur, Ho Chi Minh, Ho Chi Minh City";
+
+/* Class = "UILabel"; text = "Smoking Area"; ObjectID = "hM2-ea-KFG"; */
+"hM2-ea-KFG.text" = "Smoking Area";
+
+/* Class = "UILabel"; text = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh"; ObjectID = "iRe-jR-VW0"; */
+"iRe-jR-VW0.text" = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh";
+
+/* Class = "UILabel"; text = "Starbucks Coffee"; ObjectID = "l3e-Lw-llb"; */
+"l3e-Lw-llb.text" = "Starbucks Coffee";
+
+/* Class = "UILabel"; text = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh"; ObjectID = "lCW-qq-FcX"; */
+"lCW-qq-FcX.text" = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n09-Jv-FIP"; */
+"n09-Jv-FIP.text" = "Label";
+
+/* Class = "UILabel"; text = "1.4 mi"; ObjectID = "nnw-Ar-hnK"; */
+"nnw-Ar-hnK.text" = "1.4 mi";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, "; ObjectID = "qj4-Yx-0iX"; */
+"qj4-Yx-0iX.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, ";
+
+/* Class = "UILabel"; text = "Mai Linh:"; ObjectID = "qud-Ah-FBk"; */
+"qud-Ah-FBk.text" = "Mai Linh:";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "rXh-qw-pQq"; */
+"rXh-qw-pQq.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "20+"; ObjectID = "rgk-9J-WXt"; */
+"rgk-9J-WXt.text" = "20+";
+
+/* Class = "UILabel"; text = "50.000vnđ"; ObjectID = "saE-fT-wht"; */
+"saE-fT-wht.text" = "50.000vnđ";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "u1I-RJ-wmE"; */
+"u1I-RJ-wmE.normalTitle" = "UPDATE";
+
+/* Class = "UILabel"; text = "Sentosa Food"; ObjectID = "ulf-II-zsO"; */
+"ulf-II-zsO.text" = "Sentosa Food";
+
+/* Class = "UIButton"; normalTitle = "Reply"; ObjectID = "utm-gv-Hgr"; */
+"utm-gv-Hgr.normalTitle" = "Reply";
+
+/* Class = "UILabel"; text = "141 Nguyễn Huệ, Corner of Le Thanh Ton and Pasteur, Ho Chi Minh, Ho Chi Minh City"; ObjectID = "vGB-zF-KQa"; */
+"vGB-zF-KQa.text" = "141 Nguyễn Huệ, Corner of Le Thanh Ton and Pasteur, Ho Chi Minh, Ho Chi Minh City";
+
+/* Class = "UILabel"; text = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh"; ObjectID = "xC0-48-tIn"; */
+"xC0-48-tIn.text" = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh";
+
+/* Class = "UILabel"; text = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh"; ObjectID = "xZe-1k-4dq"; */
+"xZe-1k-4dq.text" = "117 Tô Hiến Thành, Quận 10, Thành Phố Hồ Chí Minh";
+
+/* Class = "UILabel"; text = "7.9"; ObjectID = "xd8-aj-I64"; */
+"xd8-aj-I64.text" = "7.9";
+
+/* Class = "UILabel"; text = "Drive:"; ObjectID = "y4o-QI-yB0"; */
+"y4o-QI-yB0.text" = "Drive:";
+
+/* Class = "UILabel"; text = "Remember my account"; ObjectID = "zDL-fG-hAB"; */
+"zDL-fG-hAB.text" = "Remember my account";

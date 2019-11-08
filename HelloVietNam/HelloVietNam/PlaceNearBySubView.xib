@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PlaceNearBySubView" customModule="HelloVietNam" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" restorationIdentifier="PlaceNearBySubView" id="i5M-Pr-FkT" customClass="PlaceNearBySubView" customModule="HelloVietNam" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="40"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nearby" translatesAutoresizingMaskIntoConstraints="NO" id="sq3-Mi-hmQ">
+                    <rect key="frame" x="10" y="6" width="35" height="28"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="35" id="3hD-0Y-DJf"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nearby Place" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="73I-Qn-SZ2">
+                    <rect key="frame" x="53" y="3" width="80.5" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="17" id="1qV-CC-xoo"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <color key="textColor" red="0.94901960784313721" green="0.58039215686274515" blue="0.16078431372549021" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Vincom Building Tower" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NLs-YZ-2ah">
+                    <rect key="frame" x="53" y="19" width="156" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="17" id="lgk-sz-bDV"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" red="0.17647058823529413" green="0.17647058823529413" blue="0.17647058823529413" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EZ6-Xn-3hB">
+                    <rect key="frame" x="348" y="14" width="12" height="12"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="12" id="8lA-IN-KCF"/>
+                    </constraints>
+                    <state key="normal" image="cancel">
+                        <color key="titleColor" red="0.47058823529411764" green="0.47058823529411764" blue="0.47058823529411764" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="buttonCancelDidTouch:" destination="i5M-Pr-FkT" eventType="touchUpInside" id="mEd-iV-aie"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fa6-Iu-QeE">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="1"/>
+                    <color key="backgroundColor" red="0.77127286010558072" green="0.77127286010558072" blue="0.77127286010558072" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="ZCx-zL-rfe"/>
+                    </constraints>
+                </view>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="company_logo" translatesAutoresizingMaskIntoConstraints="NO" id="NZM-6d-CF8">
+                    <rect key="frame" x="220" y="6" width="123" height="28"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="123" id="S9m-4E-rxh"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="fa6-Iu-QeE" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="7sX-gj-lhG"/>
+                <constraint firstAttribute="bottom" secondItem="NZM-6d-CF8" secondAttribute="bottom" constant="6" id="FUL-vF-VFm"/>
+                <constraint firstItem="NLs-YZ-2ah" firstAttribute="top" secondItem="73I-Qn-SZ2" secondAttribute="bottom" constant="-1" id="KIj-kO-Ooa"/>
+                <constraint firstItem="73I-Qn-SZ2" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="3" id="QwC-X3-AHr"/>
+                <constraint firstItem="sq3-Mi-hmQ" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="6" id="ZqP-oA-n6p"/>
+                <constraint firstItem="73I-Qn-SZ2" firstAttribute="leading" secondItem="sq3-Mi-hmQ" secondAttribute="trailing" constant="8" id="aaW-Sq-32b"/>
+                <constraint firstItem="fa6-Iu-QeE" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="afX-f0-RFr"/>
+                <constraint firstItem="EZ6-Xn-3hB" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="14" id="bRJ-cu-2k3"/>
+                <constraint firstAttribute="trailing" secondItem="EZ6-Xn-3hB" secondAttribute="trailing" constant="15" id="dfS-w6-aNu"/>
+                <constraint firstAttribute="trailing" secondItem="fa6-Iu-QeE" secondAttribute="trailing" id="gan-Zl-zya"/>
+                <constraint firstAttribute="bottom" secondItem="EZ6-Xn-3hB" secondAttribute="bottom" constant="14" id="h0G-y7-NGo"/>
+                <constraint firstItem="NLs-YZ-2ah" firstAttribute="leading" secondItem="sq3-Mi-hmQ" secondAttribute="trailing" constant="8" id="nGE-JU-Wb8"/>
+                <constraint firstItem="NZM-6d-CF8" firstAttribute="top" secondItem="fa6-Iu-QeE" secondAttribute="bottom" constant="5" id="tZ1-jj-Yif"/>
+                <constraint firstAttribute="bottom" secondItem="sq3-Mi-hmQ" secondAttribute="bottom" constant="6" id="tZZ-GO-FyB"/>
+                <constraint firstItem="EZ6-Xn-3hB" firstAttribute="leading" secondItem="NZM-6d-CF8" secondAttribute="trailing" constant="5" id="vUd-Wf-EGv"/>
+                <constraint firstItem="sq3-Mi-hmQ" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="10" id="yrG-ew-Mbz"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="buttonCancel" destination="EZ6-Xn-3hB" id="X1g-2Y-4o1"/>
+                <outlet property="companyLogo" destination="NZM-6d-CF8" id="lQi-bK-e28"/>
+                <outlet property="lblNearbyPlace" destination="73I-Qn-SZ2" id="3yc-vC-IFz"/>
+                <outlet property="lblNearbyPlaceTitle" destination="NLs-YZ-2ah" id="fb4-e1-l3w"/>
+                <outlet property="placeNearbyImage" destination="sq3-Mi-hmQ" id="FRH-0l-qTB"/>
+            </connections>
+            <point key="canvasLocation" x="4.5" y="-68"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="cancel" width="38" height="38"/>
+        <image name="company_logo" width="255" height="88"/>
+        <image name="nearby" width="23" height="17"/>
+    </resources>
+</document>

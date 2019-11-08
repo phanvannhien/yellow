@@ -1,0 +1,6 @@
+framework module Pods_HelloVietNam {
+  umbrella header "Pods-HelloVietNam-umbrella.h"
+
+  export *
+  module * { export * }
+}
